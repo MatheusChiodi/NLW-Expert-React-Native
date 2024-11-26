@@ -1,21 +1,21 @@
 # NLW Expert React Native
 
-Este projeto foi desenvolvido durante a NLW (Next Level Week) Expert, uma iniciativa da [Rocketseat](https://rocketseat.com.br/).
+This project was developed during the **NLW (Next Level Week) Expert**, an initiative by [Rocketseat](https://rocketseat.com.br/).
 
-## Tecnologia Utilizada
+## Technology Used
 
-Este projeto foi criado utilizando [React Native](https://reactnative.dev/), um framework para desenvolvimento de aplicativos móveis.
+This project was built using [React Native](https://reactnative.dev/), a framework for mobile app development.
 
-## Desenvolvedor
+## Developer
 
-Este projeto foi desenvolvido por [Matheus Chiodi](https://github.com/seu-usuario).
+This project was created by [Matheus Chiodi](https://github.com/seu-usuario).
 
-## Sobre o Projeto
+## About the Project
 
-O aplicativo é uma solução para pedidos de comida, permitindo aos usuários escolher entre diferentes opções e fazer pedidos diretamente pelo aplicativo.
+The application is a food ordering solution, allowing users to browse various options and place orders directly through the app.
 
-## Layout do Projeto
+## Project Layout
 
-Abaixo está o layout do projeto:
+Below is the project's layout:
 
-![Layout do Projeto](layout/base.png)
+![Project Layout](layout/base.png)
